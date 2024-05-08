@@ -6,10 +6,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kaushalyad/week-day
+$ git clone https://github.com/kaushalyad/week-day-assignment
 
 # Go into the repository
-$ cd week-day
+$ cd week-day-assignment
 
 # Install dependencies
 $ npm install
