@@ -19,6 +19,6 @@ $ npm start
 
 # Application Starts Running on Local [Default] :
 
-$  http://localhost:3000/
+$  http://localhost:3000/week-day-assignment
 
 ```
