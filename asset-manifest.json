@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/week-day-assignment/static/css/main.f5d8761a.css",
+    "main.js": "/week-day-assignment/static/js/main.600ccbd5.js",
+    "static/js/453.8a4392a3.chunk.js": "/week-day-assignment/static/js/453.8a4392a3.chunk.js",
+    "index.html": "/week-day-assignment/index.html",
+    "main.f5d8761a.css.map": "/week-day-assignment/static/css/main.f5d8761a.css.map",
+    "main.600ccbd5.js.map": "/week-day-assignment/static/js/main.600ccbd5.js.map",
+    "453.8a4392a3.chunk.js.map": "/week-day-assignment/static/js/453.8a4392a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d8761a.css",
+    "static/js/main.600ccbd5.js"
+  ]
+}
