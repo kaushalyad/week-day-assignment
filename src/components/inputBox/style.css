@@ -1,0 +1,7 @@
+.input-box:focus {
+    outline: none;
+}
+
+.input-box {
+    outline: none;
+}

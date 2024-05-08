@@ -1,0 +1,12 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.job-search-input {
+  min-height: 50px;
+  min-width: 150px;
+  padding-left: 15px;
+  border-radius: 5px;
+  border: solid 1px rgb(36, 35, 35);
+}

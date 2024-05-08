@@ -1,0 +1,47 @@
+.job-card {
+    background-color: aqua;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    min-height: 500px;
+}
+
+.easy-apply-button {
+    background: #0eeb33;
+    width: 100%;
+    padding: 10px;
+    margin: auto;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.job-posted-date {
+    background-color: #ffff;
+    width: 30%;
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px;
+    font-size: 8px;
+}
+
+.job-type-location {
+    display: flex;
+    flex-direction: column;
+}
+
+.company-logo-detail {
+    display: flex;
+}
+
+.logo {
+    width: 70px;
+    border-radius: 50px;
+}
+
+.button-blur {
+    border: none;
+    cursor: pointer;
+}
+
+.about {}

@@ -1,0 +1,41 @@
+:root {
+    --color-gray-20: hsl(223, 7%, 80%);
+    /* #C8CACF */
+    --color-base-primary-hs: 223, 45%;
+    --color-primary: hsl(var(--color-base-primary-hs), 48%);
+    /* #4463B3 */
+}
+
+body {
+    margin: 2rem;
+    box-sizing: border-box;
+}
+
+.progress {
+    width: max-content;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.progress__ring {
+    margin-bottom: 12px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 3px solid var(--color-gray-20);
+    border-top-color: var(--color-primary);
+    box-sizing: border-box;
+    animation: spin 1s infinite linear;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
